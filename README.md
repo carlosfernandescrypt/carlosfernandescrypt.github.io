@@ -1,9 +1,6 @@
-Now I have a personal [website](https://andlukyane.com/)!
+# Data science portfolio by Carlos Fernandes
 
-
-# Data science portfolio by Andrey Lukyanenko
-
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+This portfolio is a compilation of notebooks with data analysis and exploration of machine learning algorithms. A separate category is for separate projects.
 
 ## Stand-alone projects.
 
@@ -14,56 +11,6 @@ This is my own project using image recognition methods in practice. This is a si
 ### Chatbot in telegram
 
 A conversational chatbot in [telegram](http://t.me/amlnlpbot) which was created for an honor assignment of [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome). The main functionality of the bot is to distinguish two types of questions (questions related to programming and others) and then either give an answer or talk using a conversational model.
-
-## Kaggle competitions.
-
-### Avito demand prediction
-
-[Avito demand prediction](https://www.kaggle.com/c/avito-demand-prediction) was a competition on Kaggle where we tried to predict something like demand based on ads content. This competition was very interesting because it had tabular data, texts and images. On the other hand this was the reason the competition was quite difficult. My team reached 131th place and got bronze medal! Here is a [link](https://github.com/Erlemar/Avito_demand_prediction_2018) to my solution.
-
-### Categorization of purchases
-
-[This](https://www.kaggle.com/c/receipt-categorisation) was a Russian inclass Kaggle competition in the third session of ODS ml course. It sounded interesting and I took part in it reaching a 3rd place. [Here](https://www.kaggle.com/artgor/3rd-place-solution) is my kaggle kernel with a solution.
-
-## Kaggle kernels.
-
-### 2018 Kaggle ML & DS Survey Challenge
-
-Some time ago Kaggle launched a big online survey for kagglers and now this data is public. There were multiple choice questions and some forms for open answers. Survey received 23k+ respondents from 147 countries. As a result we have a big dataset with rich information on data scientists using Kaggle.
-In this [kernel](https://www.kaggle.com/artgor/russia-usa-india-and-other-countries) I compare DS in USA, Russia, India and other countries.
-
-### DonorsChoose.org Application Screening
-
-DonorsChoose.org empowers public school teachers from across the country to request much-needed materials and experiences for their students. DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. This is a competition on Kaggle where people can create a machine learning model to help this fund with auto-approving of applications. Prizes are given to the authors with the most upvoted kernels. Here is my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-xgb-lgb) with extensive EDA, feature engineering and building models.
-This kernel got 2nd place by the number of votes and I won Google Pixelbook for it!
-
-### Avito Demand Prediction Challenge
-
-Avito challenge is about predicting demand for an online advertisement based on its full description (title, description, images, etc.), its context (geographically where it was posted, similar ads already posted) and historical demand for similar ads in similar contexts. The competition is interesting due to many types of data in it which allows to build various models. Here is my [kernel](https://www.kaggle.com/artgor/eda-features-engineering-and-lightgbm) with EDA, creating features and building models.
-
-### Home Credit Default Risk
-
-Home Credit Bank offers a challenge of credit scoring. There is a lot of data about applicants and their previous behavior. Here is my [kernel](https://www.kaggle.com/artgor/eda-in-progress).
-
-### Movie Review Sentiment Analysis
-
-Some time ago Kaggle has launched several "remakes" of old competitions. It means that datasets are the same, but now we are offered an opportunity to simply explore the data and create kernels with new methods. One of these competitions is sentiment analysis of Rotten Tomatoes dataset with 5 classes (negative, somewhat negative, neutral, somewhat positive, positive). I have created a [kernel](https://www.kaggle.com/artgor/movie-review-sentiment-analysis-eda-and-models/notebook) with EDA and modern NN architecture: LSTM-CNN. Currently this kernel shows the 5th result of leaderboard.
-
-### Two Sigma: Using News to Predict Stock Movements
-
-In this competition Reuters provide unique data, which can't be obtained outside of this competition. We can see a 10 years worth of news and market data on many companies. This competition is kernel-only, which means that everyone has the same amount of computational power for this competition. In my [kernel](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything) I have analysed the data and showed trends of market data.
-
-### Santander Value Prediction Challenge
-
-In this competition we got an anonymized dataset, later it was found that it had a certain structure. In my [kernel](https://www.kaggle.com/artgor/satander-eda-nn-features-lgb) I tried to analyze the data and created new features using NN model.
-
-### Google Analytics Customer Revenue Prediction
-
-RStudio hosted this competition to prove that machine learning algorithms can impact business and help marketing. In my [kernel](https://www.kaggle.com/artgor/eda-on-basic-data-and-lgb-in-progress) I did an extensive EDA and build an interesting LGB model.
-
-### Data Science for Good: Center for Policing Equity
-
-This dataset was provided by The Center for Policing Equity. They hope that kagglers will help to create better models, find some unique insights and improve geo-analytics. In my [kernel](https://www.kaggle.com/artgor/what-can-be-said-about-justice) I try to do such things.
 
 ## Classification problems.
 
