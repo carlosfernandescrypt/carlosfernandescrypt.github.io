@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of notebooks with data analysis and exploration of machine learning algorithms. A separate category is for separate projects.
 
-## Natural language processing.
+## Natural language processing
 
 ### NLP. Text summarization
 
