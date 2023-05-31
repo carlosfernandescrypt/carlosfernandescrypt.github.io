@@ -18,9 +18,11 @@ This notebook shows how text can be summarized choosing several most important s
 
 ### Speech Transcription
 
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Speech%20Transcriptions.ipynb)
+
 Applying deep learning on Speech, the algorithm recognizes speech and transcribes it into text.
 
-[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Speech%20Transcriptions.ipynb)
+
 
 ### Language Translator
 
