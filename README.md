@@ -4,30 +4,42 @@ This portfolio is a compilation of notebooks with data analysis and exploration 
 
 ## Machine Learning & NLP
 
-### NLP. Text summarization
+### NLP Text summarization
 
-[Github](nawger.com)
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Summarizing%20texts%20with%20cosine%20similarity.ipynb)
 
-This notebook shows how text can be summarized choosing several most important sentences from the text. I explore various methods of doing this based on a news article.
+This notebook shows how text can be summarized choosing several most important sentences from the text.
 
-### 3-way Sentiment Analysis for Tweets
+### 2-way Sentiment Analysis for Tweets
 
-[Github](nawger.com)
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/2-way%20Sentiment%20Analysis%20for%20Tweets.ipynb)
 
-3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+2-way polarity (positive, negative) classification system for tweets.
 
-### Audio to Speech
+### Speech Transcription
 
-[Github](nawger.com)
+Applying deep learning on Speech, the algorithm recognizes speech and transcribes it into text.
+
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Speech%20Transcriptions.ipynb)
 
 ### Language Translator
 
-[Github](nawger.com)
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Language%20Translator.ipynb)
+
+Language translator using Google's modern Transformer architecture and Convolutional Networks.
 
 ## Data exploration and analysis
 
-### Telematic data
+### Linkedin Data Mining and Analysis
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb)
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Linkedin%20Data%20Mining%20and%20Analysis.ipynb)
 
-I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data, but here is the notebook. I want to notice that folium map can't be rendered by native github, but nbviewer.jupyter can do it.
+Exploring and viewing data from a linkedin account
+
+
+### Stock Market Analysis for Tech Stocks
+
+[Github](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/notebooks/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb)
+
+Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+
