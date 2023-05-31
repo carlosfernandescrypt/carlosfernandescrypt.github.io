@@ -2,24 +2,27 @@
 
 This portfolio is a compilation of notebooks with data analysis and exploration of machine learning algorithms. A separate category is for separate projects.
 
-## Natural language processing
+## Machine Learning & NLP
 
 ### NLP. Text summarization
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Summarize.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Summarize.ipynb)
+[Github](nawger.com)
 
 This notebook shows how text can be summarized choosing several most important sentences from the text. I explore various methods of doing this based on a news article.
 
 ### 3-way Sentiment Analysis for Tweets
 
+[Github](nawger.com)
 
-## Machine Learning
+3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
 
-### Clustering with KMeans
+### Audio to Speech
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb)
+[Github](nawger.com)
 
-Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works. Data used is about various types of seeds and their parameters. It is available [here](https://archive.ics.uci.edu/ml/datasets/seeds).
+### Language Translator
+
+[Github](nawger.com)
 
 ## Data exploration and analysis
 
