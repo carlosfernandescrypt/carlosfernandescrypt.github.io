@@ -1,6 +1,6 @@
 # Data science portfolio by Carlos Fernandes
 
-This portfolio is a compilation of notebooks with data analysis and exploration of machine learning algorithms.
+This portfolio is a compilation of notebooks and projects with data analysis, data engineering and machine learning.
 
 ## Machine Learning
 
