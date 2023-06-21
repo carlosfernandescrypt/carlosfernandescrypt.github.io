@@ -1,5 +1,5 @@
 # Data science portfolio by Carlos Fernandes
-## [Click here to see my Resume/CV](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/carlos-fernandes-CV.pdf)
+## [Click here to see my Resume/CV](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/carlosfernandesCV-.pdf)
 This portfolio is a compilation of notebooks and projects with data analysis, data engineering and machine learning.
 
 ## Machine Learning
