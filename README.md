@@ -1,6 +1,7 @@
 # portfolio by Carlos Fernandes
 ## [Click here to see my Resume/CV](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/carlosfernandesCV.pdf)
 (EN) - This portfolio is a compilation of notebooks and projects with data analysis, data engineering, software engineering and machine learning using python.
+
 (PT) - Esse Portfolio é uma compilação de notebooks e projetos com análise de dados, engenharia de dados, engenharia de software e machine learning utilizando python.
 
 ## Machine Learning
