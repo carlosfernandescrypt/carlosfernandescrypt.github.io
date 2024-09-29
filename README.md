@@ -4,6 +4,14 @@
 
 (PT) - Esse Portfolio é uma compilação de notebooks e projetos com análise de dados, engenharia de dados, engenharia de software e machine learning utilizando python.
 
+## Software Engineering
+
+### Aplicação de buscas de livros (Angular, Django, Docker)
+
+[Github](https://github.com/carlosfernandescrypt/books-search-app)
+
+Essa é uma aplicação para pesquisa de livros utilizando a API do Google books, a aplicação utiliza Django no Back-end, Angular no Front-end e Docker para rodar um banco de dados MySQL localmente.
+
 ## Machine Learning
 
 ### NLP Text summarization (Sumarização de Texto em python)
