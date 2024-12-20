@@ -1,10 +1,21 @@
 # portfolio by Carlos Fernandes
-## [Click here to see my Resume/CV](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/carlosfernandesCV.pdf)
-(EN) - This portfolio is a compilation of notebooks and projects with data analysis, data engineering, software engineering and machine learning using python.
+## [Click here to see my Resume/CV](https://github.com/carlosfernandescrypt/carlosfernandescrypt.github.io/blob/main/carlos-fernandesCVp.pdf)
+Engenheiro de Software experiente no desenvolvimento, manutenção e evolução de APIs, microsserviços e aplicações
+web que impactam diretamente a experiência de diversos usuários diariamente. Tenho paixão por solucionar problemas e
+trabalhar em equipe. Meu principal objetivo é entregar valor ao produto e ao negócio, priorizando soluções práticas e
+eficazes, independentemente das preferências técnicas. Para cada desafio, acredito que sempre há uma solução — mesmo
+que eu não a conheça de imediato, sei que encontrarei um caminho. Certificado na CompTIA PenTest+.
 
-(PT) - Esse Portfolio é uma compilação de notebooks e projetos com análise de dados, engenharia de dados, engenharia de software e machine learning utilizando python.
+(EN) - This portfolio is a compilation of notebooks and projects with data analysis, data engineering, software engineering and machine learning
+
+(PT) - Esse Portfolio é uma compilação de notebooks e projetos com análise de dados, engenharia de dados, engenharia de software e machine learning
 
 ## Software Engineering
+
+### API de autenticação (Node.js, Mongo.DB, JWT)
+
+[Github](https://github.com/carlosfernandescrypt/auth-api)
+
 
 ### Aplicação de buscas de livros (Angular, Django, Docker)
 
